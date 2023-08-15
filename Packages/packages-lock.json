@@ -1,5 +1,19 @@
 {
   "dependencies": {
+    "com.kid.scenemanager": {
+      "version": "https://github.com/KID421/com.kid.sceneManager.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "03c6060ef3fd1b1069e9719aae3a2e4b215d5d11"
+    },
+    "com.kid.tools": {
+      "version": "https://github.com/KID421/com.kid.tools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "98486828113742ad1f894b33a774576f33003f0f"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.3",
       "depth": 1,
